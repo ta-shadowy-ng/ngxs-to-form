@@ -1,0 +1,22 @@
+{
+  "name": "@ta-shadowy/ngxs-to-form",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Tuyen Nguyen"
+  },
+  "peerDependencies": {
+    "@angular/common": "^16.2.10",
+    "@angular/core": "^16.2.10",
+    "@angular/forms": "^16.2.10",
+    "@angular/platform-browser": "^16.2.10",
+    "@angular/router": "^16.2.10",
+    "@ngxs/store": "^3.6.2",
+    "@ta-shadowy/ng-locale": "^0.0.3",
+    "rxjs": "^6.5.5"
+  },
+  "dependencies": {
+    "tslib": "^2.6.2"
+  },
+  "sideEffects": false
+}
